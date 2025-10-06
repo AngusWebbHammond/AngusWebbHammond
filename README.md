@@ -1,6 +1,6 @@
 # Hi, I am Angus Webb Hammond :wave:
 
-I currently work as a Venue Manager of a theatre, doing part time Full Stack Software Development with a Master in Mathematical Sciences from Durham University. I started programming in 2014 in python, progressing onto more languages as I grew, currently I am mainly focusing on web development, including some minor backend projects in Python and C.
+I have a Masters in Mathematics from Durham University, currently looking for SWE jobs. I started programming in 2014 in python, progressing onto more languages as I grew, currently I mainly focus on C++, but have interest in Web Development and Python.
 
 <p align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
